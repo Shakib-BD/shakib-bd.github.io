@@ -2,7 +2,7 @@
 publishDate: 2024-09-20T00:00:00Z
 title: Hi, Shakib here
 excerpt: Shakib is a good boy that likes Magi
-image: https://github.com/Shakib-BD.png
+image: [https://github.com/Shakib-BD.png](https://avatars.githubusercontent.com/u/52566642?v=4)
 category: Documentation
 tags:
   - astro
